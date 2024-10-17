@@ -53,7 +53,7 @@ This project implements a medical chatbot that leverages Groq for natural langua
 1. Place your medical PDF documents in the `data` directory.
 2. Start the chatbot:
    ```bash
-   chainlit run main.py
+   chainlit run medical_chatbot.py
    ```
 3. Open your browser and navigate to the provided URL to interact with the chatbot.
 
